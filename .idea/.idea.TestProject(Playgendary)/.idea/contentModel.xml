@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\folom\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\folom\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TestProject(Playgendary).-987254258.00" t="ExcludeRecursive" />
+    <e p="D:\MyPrograms\Unity\TestProject(Playgendary)" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="HeroObjects" t="Include">
+            <e p="Behaviour" t="Include">
+              <e p="IObjectBehaviour.cs" t="Include" />
+              <e p="MoveBehaviour.cs" t="Include" />
+              <e p="RotateBehaviour.cs" t="Include" />
+            </e>
+            <e p="Builder" t="Include">
+              <e p="ObjectBehaviourBuilder.cs" t="Include" />
+              <e p="ObjectBuilder.cs" t="Include" />
+            </e>
+            <e p="Data" t="Include">
+              <e p="ObjectDataManager.cs" t="Include" />
+              <e p="ObjectDataSample.cs" t="Include" />
+            </e>
+            <e p="Manager" t="Include">
+              <e p="ObjectManager.cs" t="Include" />
+              <e p="ObjectSample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SceneChanger.cs" t="Include" />
+          <e p="Utilities" t="Include">
+            <e p="JsonParser.cs" t="Include" />
+            <e p="MathExtensions.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="TestProject(Playgendary).sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
